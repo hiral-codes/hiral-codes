@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hiral and I'm a web developer, from india</p>
+<p align="left">My name is Hiral and I'm a MERN Stack Developer, from india</p>
 
 ###
 
